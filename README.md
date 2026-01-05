@@ -1,5 +1,5 @@
 ### Hi! 👋
-This is John Ebinyi Odey aka Hotwrist | Redhound. I am a computer programmer (Python, Ruby, C/C++ Intel x86 Assembly), Certified Cybersecurity Technician, Web Application Penetration Tester, and a Bug Bounty Hunter. 
+This is John Ebinyi Odey aka Hotwrist | Redhound. I am a computer programmer, Certified Cybersecurity Technician, Web Application Penetration Tester, and a Bug Bounty Hunter. 
 
 
 - 🔭 I’m currently working in the area of Cybersecurity - Bug Bounty Hunting, Web Application Security and Malware Analysis...
